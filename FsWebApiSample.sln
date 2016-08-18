@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsWebApiSample", "FsWebApiSample\FsWebApiSample.fsproj", "{485E95DE-D816-493F-A794-0F130DF05247}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ClientApp", "ClientApp\ClientApp.fsproj", "{9DE1FD28-BD18-4A60-B958-ABE9067D0C32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{485E95DE-D816-493F-A794-0F130DF05247}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{485E95DE-D816-493F-A794-0F130DF05247}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{485E95DE-D816-493F-A794-0F130DF05247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE1FD28-BD18-4A60-B958-ABE9067D0C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE1FD28-BD18-4A60-B958-ABE9067D0C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE1FD28-BD18-4A60-B958-ABE9067D0C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE1FD28-BD18-4A60-B958-ABE9067D0C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
